@@ -23,7 +23,7 @@ section.notFound {
 }
 
 section.notFound h1 {
-    color: red;
+    color: #960f5b;
     font-size: 100px;
 }
 
@@ -45,7 +45,7 @@ div.text a {
 }
 
 div.text a:hover {
-    color: red;
+    color: #bd1373;
     text-decoration: underline; 
 }
 
@@ -65,7 +65,7 @@ div.text a:hover {
         font-size: 25px;
     }
     div.text a:active {
-    color: red;
+    color: #7e0c4c;
     text-decoration: underline; 
   }
 }
